@@ -77,6 +77,7 @@ server <- function(input, output, session) {
     
     observeEvent(input$repair,{
       
+      openalex_polite("neal_haddaway@hotmail.com")
       rv$results <- search_openAlex(rv$doisLIST) #search OA for dois
       print(paste0(length(rv$results), ' potential matches were found on OpenAlex'))
       

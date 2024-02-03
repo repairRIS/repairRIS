@@ -5,7 +5,7 @@ account: estech
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11121363
-bundleId: 8214596
+bundleId: 8214604
 url: https://estech.shinyapps.io/repairRIS/
 version: 1
 asMultiple: FALSE
