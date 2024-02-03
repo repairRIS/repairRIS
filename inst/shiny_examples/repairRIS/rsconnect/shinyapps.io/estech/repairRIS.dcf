@@ -1,0 +1,13 @@
+name: repairRIS
+title: repairRIS
+username: estech
+account: estech
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11121363
+bundleId: 8214596
+url: https://estech.shinyapps.io/repairRIS/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: repair_ris_function.R|repair_ris.R
